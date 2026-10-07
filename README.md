@@ -1,2 +1,0 @@
-# Cg
-CtoA backend
